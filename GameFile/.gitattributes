@@ -1,2 +1,9 @@
+# Handle line endings automatically for files detected as text
+* text=auto
+
+# Force LF for C# files in the repository
+*.cs text eol=lf
+
+
 *.zip filter=lfs diff=lfs merge=lfs -text
 assets/** filter=lfs diff=lfs merge=lfs -text
