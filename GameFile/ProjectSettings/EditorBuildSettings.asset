@@ -8,20 +8,21 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/TemplateScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/OpeningScene.unity
     guid: 3d6d4f9a94640a4458b60b67d17f1199
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SnowyMountainPass.unity
     guid: c799dd4dc8640474ea6112f32faa0199
   - enabled: 1
     path: Assets/Scenes/Maze.unity
     guid: 9838b47d8608be347ad8eab9a6f3b042
   - enabled: 1
-    path: Assets/Scenes/Enchanted Forest Scene.unity
+    path: Assets/Scenes/Forest.unity
     guid: cf07f166b2c9be54ba2f0d9b548a4b38
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3655e7c7fc697c044972e14981a19f8f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: c348712bda248c246b8c49b3db54643f, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 17b3cb6863be624459a0a7d0a7480a93, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79a3f2ca7eb892945b6633f3859b512d, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 222d1c7f39d221a43a8857e4c7674a1f, type: 2}
